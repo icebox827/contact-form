@@ -325,3 +325,8 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.contact h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
