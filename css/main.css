@@ -342,7 +342,7 @@ li {
 }
 
 .card-contact:hover {
-  transform: scale(1.5);
+  transform: scale(0.7);
 }
 
 #contact {

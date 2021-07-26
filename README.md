@@ -15,11 +15,13 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://icebox827.github.io/Hello-Microverse/)
+[Live Demo Link](https://icebox827.github.io/contact-form/)
 
 ## Getting Started
 
 Get a local copy up and running follow these simple example steps.
+
+- Open a terminal and run `git clone https:\\github.com\icebox827\contact-form.git`
 
 ### Prerequisites
 
