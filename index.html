@@ -301,18 +301,18 @@
               <div class="col-md-12">
                 <div class="card-body">
                   <div class="card-text">
-                    <form action="https://formsubmit.co/denislafontant@gmail.com" method="POST">
+                    <form action="https://formspree.io/f/contactForm" method="POST" id="contactForm">
                       <div class="mb-3">
                         <label for="name" class="form-label">Full name</label>
-                        <input type="text" class="form-control" name="fullName" id="name" placeholder="Full name" required>
+                        <input type="text" class="form-control" name="fullName" id="name" placeholder="Full name" maxlength="30" required>
                       </div>
                       <div class="mb-3">
                         <label for="email" class="form-label">Email address</label>
-                        <input type="email" class="form-control" name="email" id="email" placeholder="name@example.com" required>
+                        <input type="email" class="form-control" name="email" id="email" name="_replyto" placeholder="name@example.com" required>
                       </div>
                       <div class="mb-3">
                         <label for="Textarea" class="form-label">Content</label>
-                        <textarea class="form-control" name="content" id="Textarea" rows="3" required></textarea>
+                        <textarea class="form-control" name="content" id="Textarea" rows="3" maxlength="500" required></textarea>
                       </div>
                       <input type="hidden" name="_next" value="https://denislafontant.com/pages/thanks.html">
                       <input type="hidden" name="_subject" value="You've got mail!">

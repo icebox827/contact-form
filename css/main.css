@@ -342,13 +342,12 @@ li {
 }
 
 .card-contact:hover {
-  transform: scale(0.7);
+  transform: scale(0.8);
 }
 
 #contact {
   width: 100%;
   min-height: 100vh;
-  background-image: url(../img/pexels-negative-space-33999.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -361,4 +360,8 @@ li {
 
 #contact .card {
   width: 50%;
+}
+
+.card-contact button:hover {
+  background-color: blue;
 }
