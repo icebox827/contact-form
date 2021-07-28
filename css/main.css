@@ -335,10 +335,13 @@ li {
 
 .card-contact {
   box-shadow: 2px 2px 10px grey;
-  width: 22rem;
-  height: 24rem;
+  width: 28rem;
   margin: 0 auto;
   transition: transform 0.2s;
+}
+
+.card-contact p {
+  text-align: center;
 }
 
 .card-contact:hover {
