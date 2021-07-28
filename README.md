@@ -1,5 +1,61 @@
-# curriculum-cr-training-contact-form
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+# Contact-Form
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+> Microverse trial review second project. In this project we master the tools and best practices learn at Microverse
+
+Additional description about the project and its features.
+
+## Built With
+
+- HTML
+- CSS
+- Linters
+- VScode
+
+## Live Demo
+
+[Live Demo Link](https://icebox827.github.io/contact-form/)
+
+## Getting Started
+
+Get a local copy up and running follow these simple example steps.
+
+- Open a terminal and run `git clone https:\\github.com\icebox827\contact-form.git`
+
+### Prerequisites
+
+- Text editor
+- Browser
+
+### Usage
+
+- Open the html file
+
+## Author
+
+👤 **Author**
+
+- GitHub: [@icebox827](https://github.com/icebox827)
+- Twitter: [@heracles2k5](https://twitter.com/@heracles2k5)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-lafontant/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/icebox827/contact-form/issues/1).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
